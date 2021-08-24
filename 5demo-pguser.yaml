@@ -1,0 +1,10 @@
+kind: Secret
+apiVersion: v1
+metadata:
+  name: 5demo-pguser
+  namespace: 5demo
+data:
+  dbname: ZmluYW5jZQ==
+  password: UGFzc3cwcmQhCg==
+  user: ZmluYW5jZQ==
+type: Opaque
