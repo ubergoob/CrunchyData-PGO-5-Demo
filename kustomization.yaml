@@ -1,4 +1,0 @@
-namespace: 5demo
-
-resources:
-- postgres.yaml
