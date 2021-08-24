@@ -4,7 +4,7 @@ metadata:
   name: 5demo-pguser
   namespace: 5demo
 data:
-  dbname: ZmluYW5jZQ==
+  dbname: NWRlbW8K
   password: UGFzc3cwcmQhCg==
-  user: ZmluYW5jZQ==
+  user: ZNWRlbW8K
 type: Opaque
